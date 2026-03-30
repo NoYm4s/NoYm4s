@@ -35,6 +35,7 @@
 | 🥈 **2 место** | **КБШники CTF** | Команда | 2025 |
 | 🥉 **3 место** | **ÄNGARA SECURITY CTF** | 2025 |
 | 🏅 **Участник** | **MIREA CTF** | 2025 |
+| 🏅 **Участник** | **CTF Соревнования** | 2025 |
 
 ### 📜 Курсы и сертификации
 
@@ -72,6 +73,42 @@
 [📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/ANGARASECURITY_CTF_3rd_place.pdf)
 
 *Сертификат за 3-е место в соревнованиях по CTF от ÄNGARA SECURITY*
+
+</div>
+</details>
+
+<details>
+<summary><b>🏆 MIREA CTF — Участие</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/MIREA_CTF_Participation.pdf)
+
+*Участие в университетских CTF-соревнованиях*
+
+</div>
+</details>
+
+<details>
+<summary><b>🏆 CTF Соревнования — Участие (1)</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/CTF_Participation_1.pdf)
+
+*Сертификат участника CTF-соревнования*
+
+</div>
+</details>
+
+<details>
+<summary><b>🏆 CTF Соревнования — Участие (2)</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/CTF_Participation_2.pdf)
+
+*Сертификат участника CTF-соревнования*
 
 </div>
 </details>
@@ -120,18 +157,6 @@
 [📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/RSUH_Security_Lectorium.pdf)
 
 *Курс лекций по информационной безопасности*
-
-</div>
-</details>
-
-<details>
-<summary><b>🏆 MIREA CTF — Участие</b></summary>
-<br>
-<div align="center">
-
-[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/MIREA_CTF_Participation.pdf)
-
-*Участие в университетских CTF-соревнованиях*
 
 </div>
 </details>
@@ -253,6 +278,7 @@ Interests:
 | 🥈 **2nd Place** | **KBShniki CTF** | Team | 2025 |
 | 🥉 **3rd Place** | **ÄNGARA SECURITY CTF** | 2025 |
 | 🏅 **Participant** | **MIREA CTF** | 2025 |
+| 🏅 **Participant** | **CTF Competitions** | 2025 |
 
 ### 📜 Courses & Certifications
 
@@ -290,6 +316,42 @@ Interests:
 [📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/ANGARASECURITY_CTF_3rd_place.pdf)
 
 *Certificate for 3rd place in CTF competition from ÄNGARA SECURITY*
+
+</div>
+</details>
+
+<details>
+<summary><b>🏆 MIREA CTF — Participation</b></summary>
+<br>
+<div align="center">
+
+[📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/MIREA_CTF_Participation.pdf)
+
+*Participation in university CTF competitions*
+
+</div>
+</details>
+
+<details>
+<summary><b>🏆 CTF Competitions — Participation (1)</b></summary>
+<br>
+<div align="center">
+
+[📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/CTF_Participation_1.pdf)
+
+*CTF competition participation certificate*
+
+</div>
+</details>
+
+<details>
+<summary><b>🏆 CTF Competitions — Participation (2)</b></summary>
+<br>
+<div align="center">
+
+[📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/CTF_Participation_2.pdf)
+
+*CTF competition participation certificate*
 
 </div>
 </details>
@@ -338,18 +400,6 @@ Interests:
 [📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/RSUH_Security_Lectorium.pdf)
 
 *Information security lecture course*
-
-</div>
-</details>
-
-<details>
-<summary><b>🏆 MIREA CTF — Participation</b></summary>
-<br>
-<div align="center">
-
-[📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/MIREA_CTF_Participation.pdf)
-
-*Participation in university CTF competitions*
 
 </div>
 </details>
