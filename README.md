@@ -32,7 +32,7 @@
 
 | Место | Соревнование | Команда | Год |
 |-------|--------------|---------|-----|
-| 🥈 **2 место** | **КБШники CTF (KibCTF)** | КБшники | 2025 |
+| 🥈 **2 место** | **KibCTF** | КБшники | 2025 |
 | 🥉 **3 место** | **ÄNGARA SECURITY CTF** | КБшники | 2026 |
 | 🏅 **Участник** | **MIREA CTF** | КБшники | 2025 |
 | 🏅 **Участник** | **CTF Соревнования** | Одиночный | 2025 |
@@ -54,13 +54,13 @@
 > 📁 Все сертификаты хранятся в репозитории: [NoYm4s/certificates](https://github.com/NoYm4s/certificates)
 
 <details>
-<summary><b>🥈 КБШники CTF (KibCTF) — 2 место</b></summary>
+<summary><b>🥈 KibCTF — 2 место</b></summary>
 <br>
 <div align="center">
 
 [📄 Смотреть грамоту](https://github.com/NoYm4s/certificates/blob/main/KBShniki_CTF_2nd_place.pdf)
 
-*Грамота за 2-е место в CTF-соревновании КБШники (KibCTF)*
+*Грамота за 2-е место в CTF-соревновании KibCTF*
 **Команда:** КБшники | **Год:** 2025
 
 </div>
@@ -281,7 +281,7 @@ Interests:
 
 | Place | Competition | Team | Year |
 |-------|-------------|------|-----|
-| 🥈 **2nd Place** | **KBShniki CTF (KibCTF)** | KBShniki | 2025 |
+| 🥈 **2nd Place** | **KibCTF** | KBShniki | 2025 |
 | 🥉 **3rd Place** | **ÄNGARA SECURITY CTF** | KBShniki | 2026 |
 | 🏅 **Participant** | **MIREA CTF** | KBShniki | 2025 |
 | 🏅 **Participant** | **CTF Competitions** | Solo | 2025 |
@@ -303,13 +303,13 @@ Interests:
 > 📁 All certificates are stored in: [NoYm4s/certificates](https://github.com/NoYm4s/certificates)
 
 <details>
-<summary><b>🥈 KBShniki CTF (KibCTF) — 2nd Place</b></summary>
+<summary><b>🥈 KibCTF — 2nd Place</b></summary>
 <br>
 <div align="center">
 
 [📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/KBShniki_CTF_2nd_place.pdf)
 
-*Certificate for 2nd place in KBShniki CTF (KibCTF)*
+*Certificate for 2nd place in KibCTF competition*
 **Team:** KBShniki | **Year:** 2025
 
 </div>
