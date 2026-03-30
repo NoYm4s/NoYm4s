@@ -30,8 +30,9 @@
 
 ### 🥇 CTF Соревнования
 
-| Место | Соревнование | Год |
-|-------|--------------|-----|
+| Место | Соревнование | Команда | Год |
+|-------|--------------|---------|-----|
+| 🥈 **2 место** | **КБШники CTF** | Команда | 2025 |
 | 🥉 **3 место** | **ÄNGARA SECURITY CTF** | 2025 |
 | 🏅 **Участник** | **MIREA CTF** | 2025 |
 
@@ -50,6 +51,18 @@
 ## 📸 Мои сертификаты
 
 > 📁 Все сертификаты хранятся в репозитории: [NoYm4s/certificates](https://github.com/NoYm4s/certificates)
+
+<details>
+<summary><b>🥈 КБШники CTF — 2 место</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть грамоту](https://github.com/NoYm4s/certificates/blob/main/KBShniki_CTF_2nd_place.pdf)
+
+*Грамота за 2-е место в CTF-соревновании КБШники*
+
+</div>
+</details>
 
 <details>
 <summary><b>🥉 ÄNGARA SECURITY CTF — 3 место</b></summary>
@@ -157,6 +170,7 @@
 ## 📚 Текущее обучение
 
 - ✅ **Анализ защищённости веб-приложений** — Академия Кодебай
+- 🥈 **CTF соревнования** — КБШники (2 место)
 - 🥉 **CTF соревнования** — ÄNGARA SECURITY (3 место)
 - 🔄 **Углублённое изучение криптографии**
 - 🔄 **Подготовка к CTF-соревнованиям**
@@ -234,8 +248,9 @@ Interests:
 
 ### 🥇 CTF Competitions
 
-| Place | Competition | Year |
-|-------|-------------|-----|
+| Place | Competition | Team | Year |
+|-------|-------------|------|-----|
+| 🥈 **2nd Place** | **KBShniki CTF** | Team | 2025 |
 | 🥉 **3rd Place** | **ÄNGARA SECURITY CTF** | 2025 |
 | 🏅 **Participant** | **MIREA CTF** | 2025 |
 
@@ -254,6 +269,18 @@ Interests:
 ## 📸 My Certificates
 
 > 📁 All certificates are stored in: [NoYm4s/certificates](https://github.com/NoYm4s/certificates)
+
+<details>
+<summary><b>🥈 KBShniki CTF — 2nd Place</b></summary>
+<br>
+<div align="center">
+
+[📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/KBShniki_CTF_2nd_place.pdf)
+
+*Certificate for 2nd place in KBShniki CTF competition*
+
+</div>
+</details>
 
 <details>
 <summary><b>🥉 ÄNGARA SECURITY CTF — 3rd Place</b></summary>
@@ -361,6 +388,7 @@ Interests:
 ## 📚 Current Learning
 
 - ✅ **Web Application Security Analysis** — Codebay Academy
+- 🥈 **CTF Competitions** — KBShniki (2nd Place)
 - 🥉 **CTF Competitions** — ÄNGARA SECURITY (3rd Place)
 - 🔄 **Deep dive into Cryptography**
 - 🔄 **CTF Competition Preparation**
