@@ -7,7 +7,8 @@
 ### 🎓 Студент РТУ МИРЭА | 🔐 Информационная безопасность | 🚩 CTF-игрок
 
 [![GitHub](https://img.shields.io/badge/GitHub-NoYm4s-181717?style=for-the-badge&logo=github)](https://github.com/NoYm4s)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/NoYm4s)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/vibe_student)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsemen2006@gmail.com)
 
 </div>
 
@@ -27,20 +28,100 @@
 
 ## 🏆 Достижения и сертификаты
 
+### 🥇 CTF Соревнования
+
+| Место | Соревнование | Год |
+|-------|--------------|-----|
+| 🥉 **3 место** | **ÄNGARA SECURITY CTF** | 2025 |
+| 🏅 **Участник** | **MIREA CTF** | 2025 |
+
 ### 📜 Курсы и сертификации
 
 | Организация | Курс | Год |
 |-------------|------|-----|
 | 🎓 **Академия Кодебай** | Анализ Защищённости Веб-Приложений | 2025 |
-| 🔐 **Angara Security** | Курс по информационной безопасности | 2025 |
 | 📚 **Stepik** | Программирование и безопасность | 2025 |
-| 🎓 **РСУН Security** | Курс лекций по ИБ | 2025 |
+| 🎓 **РСУН Security / Лекториум** | Курс лекций по ИБ | 2025 |
 | 🟡 **Yandex** | Yet another Conference on Education | 2025 |
+| 🎓 **CodeBY** | Вводный курс по безопасности | 2025 |
 
-### 🚩 CTF Участие
+---
 
-- Участник CTF-соревнований от **MIREA**
-- Активное участие в университетских чемпионатах
+## 📸 Мои сертификаты
+
+> 📁 Все сертификаты хранятся в репозитории: [NoYm4s/certificates](https://github.com/NoYm4s/certificates)
+
+<details>
+<summary><b>🥉 ÄNGARA SECURITY CTF — 3 место</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/ANGARASECURITY_CTF_3rd_place.pdf)
+
+*Сертификат за 3-е место в соревнованиях по CTF от ÄNGARA SECURITY*
+
+</div>
+</details>
+
+<details>
+<summary><b>🎓 Академия Кодебай — Анализ Защищённости Веб-Приложений</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/CodeBY.jpeg)
+
+*Успешное завершение курса по анализу защищённости веб-приложений*
+
+</div>
+</details>
+
+<details>
+<summary><b>📚 Stepik — Программирование</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/Stepik_Certificate.pdf)
+
+*Сертификат о прохождении курса на Stepik*
+
+</div>
+</details>
+
+<details>
+<summary><b>🟡 Yandex — Yet another Conference on Education 2025</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/Yandex_Conference_2025.pdf)
+
+*Участие в образовательной конференции от Яндекс*
+
+</div>
+</details>
+
+<details>
+<summary><b>🎓 РСУН Security / Лекториум</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/RSUH_Security_Lectorium.pdf)
+
+*Курс лекций по информационной безопасности*
+
+</div>
+</details>
+
+<details>
+<summary><b>🏆 MIREA CTF — Участие</b></summary>
+<br>
+<div align="center">
+
+[📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/MIREA_CTF_Participation.pdf)
+
+*Участие в университетских CTF-соревнованиях*
+
+</div>
+</details>
 
 ---
 
@@ -76,9 +157,10 @@
 ## 📚 Текущее обучение
 
 - ✅ **Анализ защищённости веб-приложений** — Академия Кодебай
+- 🥉 **CTF соревнования** — ÄNGARA SECURITY (3 место)
 - 🔄 **Углублённое изучение криптографии**
 - 🔄 **Подготовка к CTF-соревнованиям**
--  **Курсы по реверс-инжинирингу**
+- 🔄 **Курсы по реверс-инжинирингу**
 
 ---
 
@@ -112,10 +194,10 @@
   <a href="https://github.com/NoYm4s">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://t.me/NoYm4s">
+  <a href="https://t.me/vibe_student">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:legendarassian@gmail.com">
+  <a href="mailto:rsemen2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
