@@ -32,10 +32,10 @@
 
 | Место | Соревнование | Команда | Год |
 |-------|--------------|---------|-----|
-| 🥈 **2 место** | **КБШники CTF** | Команда | 2025 |
-| 🥉 **3 место** | **ÄNGARA SECURITY CTF** | 2025 |
-| 🏅 **Участник** | **MIREA CTF** | 2025 |
-| 🏅 **Участник** | **CTF Соревнования** | 2025 |
+| 🥈 **2 место** | **КБШники CTF (KibCTF)** | КБшники | 2025 |
+| 🥉 **3 место** | **ÄNGARA SECURITY CTF** | КБшники | 2026 |
+| 🏅 **Участник** | **MIREA CTF** | КБшники | 2025 |
+| 🏅 **Участник** | **CTF Соревнования** | Одиночный | 2025 |
 
 ### 📜 Курсы и сертификации
 
@@ -54,13 +54,14 @@
 > 📁 Все сертификаты хранятся в репозитории: [NoYm4s/certificates](https://github.com/NoYm4s/certificates)
 
 <details>
-<summary><b>🥈 КБШники CTF — 2 место</b></summary>
+<summary><b>🥈 КБШники CTF (KibCTF) — 2 место</b></summary>
 <br>
 <div align="center">
 
 [📄 Смотреть грамоту](https://github.com/NoYm4s/certificates/blob/main/KBShniki_CTF_2nd_place.pdf)
 
-*Грамота за 2-е место в CTF-соревновании КБШники*
+*Грамота за 2-е место в CTF-соревновании КБШники (KibCTF)*
+**Команда:** КБшники | **Год:** 2025
 
 </div>
 </details>
@@ -73,6 +74,7 @@
 [📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/ANGARASECURITY_CTF_3rd_place.pdf)
 
 *Сертификат за 3-е место в соревнованиях по CTF от ÄNGARA SECURITY*
+**Команда:** КБшники | **Год:** 2026
 
 </div>
 </details>
@@ -85,6 +87,7 @@
 [📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/MIREA_CTF_Participation.pdf)
 
 *Участие в университетских CTF-соревнованиях*
+**Команда:** КБшники | **Год:** 2025
 
 </div>
 </details>
@@ -97,6 +100,7 @@
 [📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/CTF_Participation_1.pdf)
 
 *Сертификат участника CTF-соревнования*
+**Команда:** Одиночный | **Год:** 2025
 
 </div>
 </details>
@@ -109,6 +113,7 @@
 [📄 Смотреть сертификат](https://github.com/NoYm4s/certificates/blob/main/CTF_Participation_2.pdf)
 
 *Сертификат участника CTF-соревнования*
+**Команда:** Одиночный | **Год:** 2025
 
 </div>
 </details>
@@ -195,8 +200,9 @@
 ## 📚 Текущее обучение
 
 - ✅ **Анализ защищённости веб-приложений** — Академия Кодебай
-- 🥈 **CTF соревнования** — КБШники (2 место)
-- 🥉 **CTF соревнования** — ÄNGARA SECURITY (3 место)
+- 🥈 **CTF соревнования** — КБШники CTF (2 место, команда КБшники)
+- 🥉 **CTF соревнования** — ÄNGARA SECURITY (3 место, команда КБшники)
+- 🏅 **CTF соревнования** — MIREA CTF (команда КБшники)
 - 🔄 **Углублённое изучение криптографии**
 - 🔄 **Подготовка к CTF-соревнованиям**
 - 🔄 **Курсы по реверс-инжинирингу**
@@ -275,10 +281,10 @@ Interests:
 
 | Place | Competition | Team | Year |
 |-------|-------------|------|-----|
-| 🥈 **2nd Place** | **KBShniki CTF** | Team | 2025 |
-| 🥉 **3rd Place** | **ÄNGARA SECURITY CTF** | 2025 |
-| 🏅 **Participant** | **MIREA CTF** | 2025 |
-| 🏅 **Participant** | **CTF Competitions** | 2025 |
+| 🥈 **2nd Place** | **KBShniki CTF (KibCTF)** | KBShniki | 2025 |
+| 🥉 **3rd Place** | **ÄNGARA SECURITY CTF** | KBShniki | 2026 |
+| 🏅 **Participant** | **MIREA CTF** | KBShniki | 2025 |
+| 🏅 **Participant** | **CTF Competitions** | Solo | 2025 |
 
 ### 📜 Courses & Certifications
 
@@ -297,13 +303,14 @@ Interests:
 > 📁 All certificates are stored in: [NoYm4s/certificates](https://github.com/NoYm4s/certificates)
 
 <details>
-<summary><b>🥈 KBShniki CTF — 2nd Place</b></summary>
+<summary><b>🥈 KBShniki CTF (KibCTF) — 2nd Place</b></summary>
 <br>
 <div align="center">
 
 [📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/KBShniki_CTF_2nd_place.pdf)
 
-*Certificate for 2nd place in KBShniki CTF competition*
+*Certificate for 2nd place in KBShniki CTF (KibCTF)*
+**Team:** KBShniki | **Year:** 2025
 
 </div>
 </details>
@@ -316,6 +323,7 @@ Interests:
 [📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/ANGARASECURITY_CTF_3rd_place.pdf)
 
 *Certificate for 3rd place in CTF competition from ÄNGARA SECURITY*
+**Team:** KBShniki | **Year:** 2026
 
 </div>
 </details>
@@ -328,6 +336,7 @@ Interests:
 [📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/MIREA_CTF_Participation.pdf)
 
 *Participation in university CTF competitions*
+**Team:** KBShniki | **Year:** 2025
 
 </div>
 </details>
@@ -340,6 +349,7 @@ Interests:
 [📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/CTF_Participation_1.pdf)
 
 *CTF competition participation certificate*
+**Team:** Solo | **Year:** 2025
 
 </div>
 </details>
@@ -352,6 +362,7 @@ Interests:
 [📄 View Certificate](https://github.com/NoYm4s/certificates/blob/main/CTF_Participation_2.pdf)
 
 *CTF competition participation certificate*
+**Team:** Solo | **Year:** 2025
 
 </div>
 </details>
@@ -438,8 +449,9 @@ Interests:
 ## 📚 Current Learning
 
 - ✅ **Web Application Security Analysis** — Codebay Academy
-- 🥈 **CTF Competitions** — KBShniki (2nd Place)
-- 🥉 **CTF Competitions** — ÄNGARA SECURITY (3rd Place)
+- 🥈 **CTF Competitions** — KBShniki CTF (2nd Place, Team KBShniki)
+- 🥉 **CTF Competitions** — ÄNGARA SECURITY (3rd Place, Team KBShniki)
+- 🏅 **CTF Competitions** — MIREA CTF (Team KBShniki)
 - 🔄 **Deep dive into Cryptography**
 - 🔄 **CTF Competition Preparation**
 - 🔄 **Reverse Engineering Courses**
